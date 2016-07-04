@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.MLATalk</groupId>
-  <artifactId>MLATalk</artifactId>
+  <groupId>com.SpringProject</groupId>
+  <artifactId>SpringProject</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
 
-  <name>SpringSecurityHibernateAnnotationExample</name>
+  <name>SpringSecurityHibernate</name>
   
   	<properties>
 		<springframework.version>4.1.6.RELEASE</springframework.version>
@@ -121,6 +121,6 @@
 				
 			</plugins>
 		</pluginManagement>
-		<finalName>MLATalk</finalName>
+		<finalName>SpringProject</finalName>
 	</build>
 </project>
