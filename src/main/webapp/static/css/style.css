@@ -1,0 +1,202 @@
+#main{
+	width:100%;
+	height:800px;
+	
+}
+#middle{
+	width:1250px;
+	height:780px;
+	margin:auto;
+}
+#header{
+	width:1200px;
+	height:120px;
+	background-color:#EC5811;
+	margin:auto;
+	border-radius:3px;
+}
+#header-left{
+	width:760px;
+	height:100px;
+	padding: 10px;
+	float:left;
+}
+#header-left h1{
+	margin:0px;
+	margin-left: 50px;
+    font-size: 40px;
+	margin-top:25px;
+}
+#header-left a{
+	color: #F3E53F;
+	text-decoration:none;
+}
+#header-right{
+	width:400px;
+	height:100px;
+	padding: 10px;
+	float:right;
+}
+#header-right input{
+	width:200px;
+	height:25px;
+}
+#header-right button{
+	width:66px;
+	height:31px;
+	margin-top:35px;
+	margin-left:10px;
+}
+#wrap{
+	width:1200px;
+	height:50px;
+	background-color:#EC5811;
+	margin:auto;
+	margin-top: 10px;
+	border-radius:3px;
+}
+#wrap-left{
+	width:800px;
+	height:50px;
+	float:left;
+}
+#wrap-left a{
+	text-decoration:none;
+	color: #F3E53F;
+}
+#wrap-right{
+	width:200px;
+	height:50px;
+	float:right;
+}
+#home{
+	width:100px;
+	height:40px;
+	padding-top:10px;
+	float:left;
+	border-right:2px solid #CCEFEF;
+	margin-left: 25px;
+}
+#home a{
+	font-size: 23px;
+    margin-left: 8px;
+}
+#Aboutus{
+	width:140px;
+	height:40px;
+	padding-top:10px;
+	float:left;
+	border-right:2px solid #CCEFEF;
+}
+#Aboutus a{
+	font-size: 23px;
+    margin-left: 23px;
+}
+#Contactus{
+	width:150px;
+	height:40px;
+	padding-top:10px;
+	float:left;
+	border-right:2px solid #CCEFEF;
+}
+#Contactus a{
+	font-size: 23px;
+    margin-left:20px;
+}
+#Aboutsite{
+	width:140px;
+	height:40px;
+	padding-top:10px;
+	float:left;
+	border-right:2px solid #CCEFEF;
+}
+#Aboutsite a{
+	font-size: 23px;
+    margin-left: 20px;
+}
+.btn1{
+	width: 66px;
+    height: 31px;
+	margin-top:9px;
+}
+.btn2{
+	width: 66px;
+    height: 31px;
+	margin-left: 15px;
+}
+#content{
+	width:1200px;
+	height:500px;
+	margin:auto;
+	border-radius:3px;
+	background-image:url("img/image.jpg");
+	margin-top:10px;
+}
+#content h2{
+	margin-top: 15px;
+    font-size: 35px;
+    margin-left: 15px;
+    font-family: monospace;
+	color: #A4DFFB;
+}
+#footer{
+	height:50px;
+	width:1190px;
+	background-color:green;
+	margin:auto;
+	margin-top:10px;
+	border-radius:3px;
+	padding:5px;
+}
+#footer li{
+	display:inline;
+	color:#CCEFEF;
+	font-size: larger;
+}
+#footer a{
+	color:#F3E53F;
+	font-size:20px;
+	text-decoration:none;
+	margin-right: 20px;
+    margin-left: 20px;
+}
+#footer ul{
+	margin-top:10px;
+	margin:0px;
+}
+#ftr{
+	width:560px;
+	height:30px;
+	margin:auto;
+	margin-left:315px;
+	margin-top:11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
